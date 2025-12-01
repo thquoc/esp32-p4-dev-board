@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=ZJP1
+Added Pin To Net: NetName=VCC3V3 Pin=C47-2
+Added Pin To Net: NetName=VCC3V3 Pin=C48-2
+Added Pin To Net: NetName=VCC3V3 Pin=IC7-4
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,19 @@
+Added Component: Designator=LED1(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=PGND Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component LED1 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED4 XL-1608SURC-06

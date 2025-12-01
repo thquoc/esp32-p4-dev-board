@@ -1,0 +1,13 @@
+Added Component: Designator=R7(R1206)
+Added Pin To Net: NetName=NetIC2_13 Pin=R7-1
+Added Pin To Net: NetName=VBAT Pin=R7-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component R7 91mO

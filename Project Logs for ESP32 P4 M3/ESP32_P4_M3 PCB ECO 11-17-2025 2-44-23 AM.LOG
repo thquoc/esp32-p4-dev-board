@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USB_5V Pin=R68-2
+Change Component Comment : Designator=R78 Old Comment=50O New Comment=1.5kO
+Change Component Designator: OldDesignator=Y1 NewDesignator=1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

@@ -1,0 +1,12 @@
+Added Component: Designator=BT1(BATTERY)
+Added Pin To Net: NetName=BAT Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

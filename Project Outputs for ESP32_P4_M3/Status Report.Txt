@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ESP32_P4_M3.PrjPcb]
+   Generated File[Pick Place for ESP32_P4_M3.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:43:27 PM On 11/27/2025

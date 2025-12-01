@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=AGND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=5V Pin=HD1-1
+Removed Pin From Net: NetName=PGND Pin=IC11-2
+Removed Pin From Net: NetName=PGND Pin=IC12-2
+Removed Pin From Net: NetName=PGND Pin=IC13-2
+Removed Pin From Net: NetName=PGND Pin=IC14-2
+Removed Pin From Net: NetName=PGND Pin=IC15-2
+Removed Pin From Net: NetName=PGND Pin=R?-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R?-2
+Removed Member From Class: ClassName=Designator Member=R?
+Added Component: Designator=L2(IND-SMD_L10.1-W10.0)
+Added Component: Designator=R115(R0603)
+Added Pin To Net: NetName=PGND Pin=C14-2
+Added Pin To Net: NetName=AGND Pin=D5-2
+Added Pin To Net: NetName=VCC_IN Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=IC11-2
+Added Pin To Net: NetName=GND Pin=IC12-2
+Added Pin To Net: NetName=GND Pin=IC13-2
+Added Pin To Net: NetName=GND Pin=IC14-2
+Added Pin To Net: NetName=GND Pin=IC15-2
+Added Pin To Net: NetName=NetD3_1 Pin=L2-1
+Added Pin To Net: NetName=NetIC2_13 Pin=L2-2
+Added Pin To Net: NetName=PGND Pin=R115-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R115-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=VCC5V
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Lime
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(152, 0, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(74, 134, 232)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(204, 65, 37)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Fuchsia
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component L2 15uH
+Added Member To Class: ClassName=Designator Member=Component R115 24.9kO
+Added Rule: Name=Schematic Supply Nets_18

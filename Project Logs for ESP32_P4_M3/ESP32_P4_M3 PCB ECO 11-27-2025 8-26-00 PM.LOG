@@ -1,0 +1,18 @@
+Added Component: Designator=Hole4(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=USB-DM New Net Name=USB_N
+Change Net Name : Old Net Name=USB-DP New Net Name=USB_P
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=DIFF90 Member=Wire USB_N
+Added Member To Class: ClassName=USB Member=Wire USB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB_P
+Added Member To Class: ClassName=USB Member=Wire USB_P

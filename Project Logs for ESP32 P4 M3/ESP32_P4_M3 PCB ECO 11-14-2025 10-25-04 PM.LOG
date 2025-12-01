@@ -1,0 +1,965 @@
+Added Component: Designator=1(CRYSTAL-SMD_4P-L3.2-W2.5-BL)
+Added Component: Designator=ANT1(ANT-SMD-2_L3.2-W1.6-C504002)
+Added Component: Designator=BT1(BAT-SMD_CR2032-3V)
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(CAP-SMD_L7.3-W4.3-R-RD)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=C5(C0603)
+Added Component: Designator=C6(CAP-SMD_L7.3-W4.3-R-RD)
+Added Component: Designator=C7(C0603)
+Added Component: Designator=C8(C0603)
+Added Component: Designator=C9(C0603)
+Added Component: Designator=C10(C0603)
+Added Component: Designator=C11(C0603)
+Added Component: Designator=C12(C0603)
+Added Component: Designator=C13(C0603)
+Added Component: Designator=C14(C0603)
+Added Component: Designator=C15(C0603)
+Added Component: Designator=C16(C0603)
+Added Component: Designator=C17(C0603)
+Added Component: Designator=C18(C0603)
+Added Component: Designator=C19(C0603)
+Added Component: Designator=C20(C0603)
+Added Component: Designator=C21(C0603)
+Added Component: Designator=C22(C0603)
+Added Component: Designator=C23(C0603)
+Added Component: Designator=C24(C0603)
+Added Component: Designator=C25(C0603)
+Added Component: Designator=C26(C0603)
+Added Component: Designator=C27(C0603)
+Added Component: Designator=C28(C0603)
+Added Component: Designator=C29(C0603)
+Added Component: Designator=C30(C0603)
+Added Component: Designator=C31(C0603)
+Added Component: Designator=C32(C0603)
+Added Component: Designator=C33(C0603)
+Added Component: Designator=C34(C0603)
+Added Component: Designator=C35(C0603)
+Added Component: Designator=C36(C0603)
+Added Component: Designator=C37(C0603)
+Added Component: Designator=C38(C0603)
+Added Component: Designator=C39(C0603)
+Added Component: Designator=C40(C0603)
+Added Component: Designator=C41(C0603)
+Added Component: Designator=C42(C0603)
+Added Component: Designator=C43(C0603)
+Added Component: Designator=C44(C0603)
+Added Component: Designator=C45(C0603)
+Added Component: Designator=C46(C0603)
+Added Component: Designator=C47(C0603)
+Added Component: Designator=C48(C0603)
+Added Component: Designator=C49(C0603)
+Added Component: Designator=C50(C0603)
+Added Component: Designator=C51(C0603)
+Added Component: Designator=C52(C0603)
+Added Component: Designator=C53(C0603)
+Added Component: Designator=C54(C0603)
+Added Component: Designator=C55(C0603)
+Added Component: Designator=C56(C0603)
+Added Component: Designator=C57(C0603)
+Added Component: Designator=C58(C0603)
+Added Component: Designator=C59(C0603)
+Added Component: Designator=C60(C0603)
+Added Component: Designator=C61(C0603)
+Added Component: Designator=C62(C0603)
+Added Component: Designator=C63(C0603)
+Added Component: Designator=C64(C0603)
+Added Component: Designator=C65(C0603)
+Added Component: Designator=C66(C0603)
+Added Component: Designator=C67(C0603)
+Added Component: Designator=C68(C0603)
+Added Component: Designator=C69(C0603)
+Added Component: Designator=C70(C0603)
+Added Component: Designator=C71(C0603)
+Added Component: Designator=C72(C0603)
+Added Component: Designator=C73(C0603)
+Added Component: Designator=C74(C0603)
+Added Component: Designator=C75(C0603)
+Added Component: Designator=Camera CSI interface1(FPC-SMD_15P-P1.00_XUNPU_FPC-1.0FX-15PWCR-H20)
+Added Component: Designator=CAP1(CAP-SMD_BD5.0-L5.3-W5.3-FD)
+Added Component: Designator=CAP2(CAP-SMD_BD5.0-L5.3-W5.3-FD)
+Added Component: Designator=CAP3(CAP-SMD_BD5.0-L5.3-W5.3-FD)
+Added Component: Designator=CN1(CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB)
+Added Component: Designator=CN2(CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB)
+Added Component: Designator=CN3(CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB)
+Added Component: Designator=CONN1(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN2(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN3(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN4(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN5(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN6(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=CONN7(CONN-TH_P5.00_KF128-5.0-2P)
+Added Component: Designator=D1(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=D2(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=D3(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=D4(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=D5(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=D6(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=D7(SMB_L4.6-W3.6-LS5.3-BI)
+Added Component: Designator=D8(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D9(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D10(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D11(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D12(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D13(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D14(SOD-523_L1.2-W0.8-LS1.6-BI)
+Added Component: Designator=D15(SMC_L6.9-W5.9-LS7.9-RD)
+Added Component: Designator=D16(DO-41_BD2.4-L4.7-P8.70-D0.9-RD)
+Added Component: Designator=D17(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=D18(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=D19(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=D20(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=D21(SMA_L4.4-W2.6-LS5.0-RD)
+Added Component: Designator=Display DSI interface1(FPC-SMD_15P-P1.00_XUNPU_FPC-1.0FX-15PWCR-H20)
+Added Component: Designator=F1(IND-SMD_L8.5-W3.1)
+Added Component: Designator=F2(IND-SMD_L8.5-W3.1)
+Added Component: Designator=F3(IND-SMD_L8.5-W3.1)
+Added Component: Designator=F4(F0603)
+Added Component: Designator=F5(F0603)
+Added Component: Designator=F6(IND-SMD_L8.5-W3.1)
+Added Component: Designator=H1(HDR-TH_26P-P2.54-V-M-R2-C13-S2.54)
+Added Component: Designator=HD1(HED4)
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3)
+Added Component: Designator=IC2(TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL)
+Added Component: Designator=IC3(WQFN-20_L3.0-W3.0-P0.40-BL-EP1.7)
+Added Component: Designator=IC4(MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL)
+Added Component: Designator=IC5(SOP-8_L4.9-W3.9-P1.27-LS6.0-BL)
+Added Component: Designator=IC6(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL)
+Added Component: Designator=IC7(SOP-16_L10.0-W3.9-P1.27-LS6.0-BL)
+Added Component: Designator=IC8(QFN-32_L4.0-W4.0-P0.40-BL-EP2.7)
+Added Component: Designator=IC9(SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL)
+Added Component: Designator=IC10(XCVR_NEO-6M-GPS)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NEO-6M-GPS/u-blox/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NEO-6M-GPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NEO-6M-GPS/u-blox/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC11(smd pc817)
+Added Component: Designator=IC12(smd pc817)
+Added Component: Designator=IC13(smd pc817)
+Added Component: Designator=IC14(smd pc817)
+Added Component: Designator=IC15(smd pc817)
+Added Component: Designator=JDC1(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(RF-SMD_FRF05002-JSS103M)
+Added Component: Designator=L1(IND-SMD_L10.1-W10.0)
+Added Component: Designator=L2(IND-SMD_L6.0-W6.0_VLS6045EX-2R0N)
+Added Component: Designator=L3(IND-SMD_L5.4-W5.2)
+Added Component: Designator=L4(C0603)
+Added Component: Designator=L5(C0603)
+Added Component: Designator=LED1(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED10(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MIC1(MIC-SMD_4P-L3.8-W3.0-P2.46-S1.70-TR)
+Added Component: Designator=MQ-1(HED3)
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q2(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q3(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q4(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q5(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q6(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q7(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q8(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q9(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q10(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q11(SC-70-6_L2.2-W1.3-P0.65-LS2.1-TL)
+Added Component: Designator=Q12(SC-70-6_L2.2-W1.3-P0.65-LS2.1-TL)
+Added Component: Designator=Q13(SC-70-6_L2.2-W1.3-P0.65-LS2.1-TL)
+Added Component: Designator=Q14(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=Q15(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q16(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q17(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q18(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=Q19(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=R4(R0603)
+Added Component: Designator=R5(R0603)
+Added Component: Designator=R6(R0603)
+Added Component: Designator=R7(R1206)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=R9(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R12(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R14(R0603)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R16(R0603)
+Added Component: Designator=R17(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R21(R0603)
+Added Component: Designator=R22(R0603)
+Added Component: Designator=R23(R0603)
+Added Component: Designator=R24(R0603)
+Added Component: Designator=R25(R0603)
+Added Component: Designator=R26(R0603)
+Added Component: Designator=R27(R0603)
+Added Component: Designator=R28(R0603)
+Added Component: Designator=R29(R0603)
+Added Component: Designator=R30(R0603)
+Added Component: Designator=R31(R0603)
+Added Component: Designator=R32(R0603)
+Added Component: Designator=R33(R0603)
+Added Component: Designator=R34(R0603)
+Added Component: Designator=R35(R0603)
+Added Component: Designator=R36(R0603)
+Added Component: Designator=R37(R0603)
+Added Component: Designator=R38(R0603)
+Added Component: Designator=R39(R0603)
+Added Component: Designator=R40(R0603)
+Added Component: Designator=R41(R0603)
+Added Component: Designator=R42(R0603)
+Added Component: Designator=R43(R0603)
+Added Component: Designator=R44(R0603)
+Added Component: Designator=R45(R0603)
+Added Component: Designator=R46(R0603)
+Added Component: Designator=R47(R0603)
+Added Component: Designator=R48(R0603)
+Added Component: Designator=R49(R0603)
+Added Component: Designator=R50(R0603)
+Added Component: Designator=R51(R0603)
+Added Component: Designator=R52(R0603)
+Added Component: Designator=R53(R0603)
+Added Component: Designator=R54(R0603)
+Added Component: Designator=R55(R0603)
+Added Component: Designator=R56(R0603)
+Added Component: Designator=R57(R0603)
+Added Component: Designator=R58(R0603)
+Added Component: Designator=R59(R0603)
+Added Component: Designator=R60(R0603)
+Added Component: Designator=R61(R0603)
+Added Component: Designator=R62(R0603)
+Added Component: Designator=R63(R0603)
+Added Component: Designator=R64(R0603)
+Added Component: Designator=R65(R0603)
+Added Component: Designator=R66(R0603)
+Added Component: Designator=R67(R0603)
+Added Component: Designator=R68(R0603)
+Added Component: Designator=R69(R0603)
+Added Component: Designator=R70(R0603)
+Added Component: Designator=R71(R0603)
+Added Component: Designator=R72(R0603)
+Added Component: Designator=R73(R0603)
+Added Component: Designator=R74(R0603)
+Added Component: Designator=R75(R0603)
+Added Component: Designator=R76(R0603)
+Added Component: Designator=R77(R0603)
+Added Component: Designator=R78(R0603)
+Added Component: Designator=R79(R0603)
+Added Component: Designator=R80(R0603)
+Added Component: Designator=R81(R0603)
+Added Component: Designator=R82(R0603)
+Added Component: Designator=R83(R0603)
+Added Component: Designator=R84(R0603)
+Added Component: Designator=R85(R0603)
+Added Component: Designator=R86(R0603)
+Added Component: Designator=R87(R0603)
+Added Component: Designator=R88(R0603)
+Added Component: Designator=R89(R0603)
+Added Component: Designator=R90(R0603)
+Added Component: Designator=R91(R0603)
+Added Component: Designator=R92(R0603)
+Added Component: Designator=R93(R0603)
+Added Component: Designator=R94(R0603)
+Added Component: Designator=R95(R0603)
+Added Component: Designator=R96(R0603)
+Added Component: Designator=R97(R0603)
+Added Component: Designator=R98(R0603)
+Added Component: Designator=R99(R0603)
+Added Component: Designator=R100(R0603)
+Added Component: Designator=R101(R0603)
+Added Component: Designator=R102(R0603)
+Added Component: Designator=R103(R0603)
+Added Component: Designator=R104(R0603)
+Added Component: Designator=R105(R0603)
+Added Component: Designator=R106(R0603)
+Added Component: Designator=R107(R0603)
+Added Component: Designator=R108(R0603)
+Added Component: Designator=R109(R0603)
+Added Component: Designator=R110(R0603)
+Added Component: Designator=R111(R0603)
+Added Component: Designator=R112(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=RJ1(RJ45-TH_HR913550A)
+Added Component: Designator=RL1(RL-5V-15A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL2(RL-5V-15A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL3(RL-5V-15A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL4(RL-5V-15A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL5(RL-5V-15A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(KEY-SMD_B3U-1000PM)
+Added Component: Designator=SW2(KEY-SMD_B3U-1000PM)
+Added Component: Designator=TF1(TF-SMD_SH_SH-TF-01A)
+Added Component: Designator=U1(SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR)
+Added Component: Designator=U2(JC-ESP32P4-M3_V0.2)
+Added Component: Designator=USB1(USB-C-SMD_G-SWITCH_GT-USB-7010ASV)
+Added Component: Designator=USB2(USB-C-SMD_G-SWITCH_GT-USB-7010ASV)
+Added Component: Designator=USB3(USB-C-SMD_G-SWITCH_GT-USB-7010ASV)
+Add Net: Net with name "5V" already exists
+Add Net: Net with name "18VA" already exists
+Add Net: Net with name "25M_XI" already exists
+Add Net: Net with name "25M_XO" already exists
+Add Net: Net with name "AC(L)" already exists
+Add Net: Net with name "AC(N)" already exists
+Add Net: Net with name "ADC_MIC1_N" already exists
+Add Net: Net with name "ADC_MIC1_P" already exists
+Add Net: Net with name "ADC_MICBIAS12" already exists
+Add Net: Net with name "Ao" already exists
+Add Net: Net with name "BAT" already exists
+Add Net: Net with name "BOOTMODE" already exists
+Add Net: Net with name "Bo" already exists
+Add Net: Net with name "C6_CHIP_PU" already exists
+Add Net: Net with name "C6_IO2" already exists
+Add Net: Net with name "C6_IO9" already exists
+Add Net: Net with name "C6_U0RXD" already exists
+Add Net: Net with name "C6_U0TXD" already exists
+Add Net: Net with name "CHIP_PU" already exists
+Add Net: Net with name "CODEC_3V3" already exists
+Add Net: Net with name "CODEC_I2S0_DSDIN" already exists
+Add Net: Net with name "CODEC_I2S0_LRCK" already exists
+Add Net: Net with name "CODEC_I2S0_MCLK" already exists
+Add Net: Net with name "CODEC_I2S0_SCLK" already exists
+Add Net: Net with name "COL" already exists
+Add Net: Net with name "COM1" already exists
+Add Net: Net with name "COM2" already exists
+Add Net: Net with name "COM3" already exists
+Add Net: Net with name "COM4" already exists
+Add Net: Net with name "COM5" already exists
+Add Net: Net with name "CRS" already exists
+Add Net: Net with name "CSI_A_CLK_N" already exists
+Add Net: Net with name "CSI_A_CLK_P" already exists
+Add Net: Net with name "CSI_A_DATA0_N" already exists
+Add Net: Net with name "CSI_A_DATA0_P" already exists
+Add Net: Net with name "CSI_A_DATA1_N" already exists
+Add Net: Net with name "CSI_A_DATA1_P" already exists
+Add Net: Net with name "CSI_IO0" already exists
+Add Net: Net with name "CSI_IO1" already exists
+Add Net: Net with name "DAC_OUT_N" already exists
+Add Net: Net with name "DAC_OUT_P" already exists
+Add Net: Net with name "DSI_A_CLK_N" already exists
+Add Net: Net with name "DSI_A_CLK_P" already exists
+Add Net: Net with name "DSI_A_DATA0_N" already exists
+Add Net: Net with name "DSI_A_DATA0_P" already exists
+Add Net: Net with name "DSI_A_DATA1_N" already exists
+Add Net: Net with name "DSI_A_DATA1_P" already exists
+Add Net: Net with name "DTR" already exists
+Add Net: Net with name "DTS" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "ES7210_SDOUT" already exists
+Add Net: Net with name "ES_I2C_SCL" already exists
+Add Net: Net with name "ES_I2C_SDA" already exists
+Add Net: Net with name "ESP_LDO_VO4" already exists
+Add Net: Net with name "ESP_USB_N" already exists
+Add Net: Net with name "ESP_USB_P" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO1" already exists
+Add Net: Net with name "GPIO2" already exists
+Add Net: Net with name "GPIO3" already exists
+Add Net: Net with name "GPIO4" already exists
+Add Net: Net with name "GPIO5" already exists
+Add Net: Net with name "GPIO20" already exists
+Add Net: Net with name "GPIO21" already exists
+Add Net: Net with name "GPIO22" already exists
+Add Net: Net with name "GPIO23" already exists
+Add Net: Net with name "GPIO26" already exists
+Add Net: Net with name "GPIO27" already exists
+Add Net: Net with name "GPIO28" already exists
+Add Net: Net with name "GPIO29" already exists
+Add Net: Net with name "GPIO30" already exists
+Add Net: Net with name "GPIO31" already exists
+Add Net: Net with name "GPIO32" already exists
+Add Net: Net with name "GPIO33" already exists
+Add Net: Net with name "GPIO34" already exists
+Add Net: Net with name "GPIO36" already exists
+Add Net: Net with name "GPIO37" already exists
+Add Net: Net with name "GPIO38" already exists
+Add Net: Net with name "GPIO45" already exists
+Add Net: Net with name "GPIO46" already exists
+Add Net: Net with name "GPIO47" already exists
+Add Net: Net with name "GPIO49" already exists
+Add Net: Net with name "GPIO50" already exists
+Add Net: Net with name "GPIO51" already exists
+Add Net: Net with name "GPIO52" already exists
+Add Net: Net with name "GPIO53" already exists
+Add Net: Net with name "IN" already exists
+Add Net: Net with name "LAN_OUT" already exists
+Add Net: Net with name "LAN" already exists
+Add Net: Net with name "NetANT1_2" already exists
+Add Net: Net with name "NetC1_1" already exists
+Add Net: Net with name "NetC1_2" already exists
+Add Net: Net with name "NetC4_2" already exists
+Add Net: Net with name "NetC8_1" already exists
+Add Net: Net with name "NetC10_1" already exists
+Add Net: Net with name "NetC10_2" already exists
+Add Net: Net with name "NetC13_1" already exists
+Add Net: Net with name "NetC15_1" already exists
+Add Net: Net with name "NetC16_1" already exists
+Add Net: Net with name "NetC17_2" already exists
+Add Net: Net with name "NetC18_2" already exists
+Add Net: Net with name "NetC19_2" already exists
+Add Net: Net with name "NetC24_1" already exists
+Add Net: Net with name "NetC25_2" already exists
+Add Net: Net with name "NetC26_2" already exists
+Add Net: Net with name "NetC28_2" already exists
+Add Net: Net with name "NetC30_2" already exists
+Add Net: Net with name "NetC31_2" already exists
+Add Net: Net with name "NetC32_2" already exists
+Add Net: Net with name "NetC33_1" already exists
+Add Net: Net with name "NetC33_2" already exists
+Add Net: Net with name "NetC34_1" already exists
+Add Net: Net with name "NetC34_2" already exists
+Add Net: Net with name "NetC37_2" already exists
+Add Net: Net with name "NetC38_1" already exists
+Add Net: Net with name "NetC45_2" already exists
+Add Net: Net with name "NetC47_2" already exists
+Add Net: Net with name "NetC58_2" already exists
+Add Net: Net with name "NetC59_2" already exists
+Add Net: Net with name "NetCamera CSI interface1_13" already exists
+Add Net: Net with name "NetCamera CSI interface1_14" already exists
+Add Net: Net with name "NetD2_2" already exists
+Add Net: Net with name "NetD3_1" already exists
+Add Net: Net with name "NetD3_2" already exists
+Add Net: Net with name "NetD4_1" already exists
+Add Net: Net with name "NetD8_1" already exists
+Add Net: Net with name "NetD9_1" already exists
+Add Net: Net with name "NetD10_2" already exists
+Add Net: Net with name "NetD13_2" already exists
+Add Net: Net with name "NetD17_2" already exists
+Add Net: Net with name "NetD18_2" already exists
+Add Net: Net with name "NetD19_2" already exists
+Add Net: Net with name "NetD20_2" already exists
+Add Net: Net with name "NetD21_2" already exists
+Add Net: Net with name "NetDisplay DSI interface1_11" already exists
+Add Net: Net with name "NetDisplay DSI interface1_12" already exists
+Add Net: Net with name "NetIC1_2" already exists
+Add Net: Net with name "NetIC1_4" already exists
+Add Net: Net with name "NetIC1_6" already exists
+Add Net: Net with name "NetIC2_4" already exists
+Add Net: Net with name "NetIC2_5" already exists
+Add Net: Net with name "NetIC2_6" already exists
+Add Net: Net with name "NetIC2_7" already exists
+Add Net: Net with name "NetIC2_9" already exists
+Add Net: Net with name "NetIC2_13" already exists
+Add Net: Net with name "NetIC2_16" already exists
+Add Net: Net with name "NetIC3_1" already exists
+Add Net: Net with name "NetIC3_20" already exists
+Add Net: Net with name "NetIC4_1" already exists
+Add Net: Net with name "NetIC5_1" already exists
+Add Net: Net with name "NetIC5_4" already exists
+Add Net: Net with name "NetIC6_2" already exists
+Add Net: Net with name "NetIC9_7" already exists
+Add Net: Net with name "NetIC10_8" already exists
+Add Net: Net with name "NetIC11_1" already exists
+Add Net: Net with name "NetIC11_3" already exists
+Add Net: Net with name "NetIC12_1" already exists
+Add Net: Net with name "NetIC12_3" already exists
+Add Net: Net with name "NetIC13_1" already exists
+Add Net: Net with name "NetIC13_3" already exists
+Add Net: Net with name "NetIC14_1" already exists
+Add Net: Net with name "NetIC14_3" already exists
+Add Net: Net with name "NetIC15_1" already exists
+Add Net: Net with name "NetIC15_3" already exists
+Add Net: Net with name "NetL3_1" already exists
+Add Net: Net with name "NetL5_1" already exists
+Add Net: Net with name "NetLED1_2" already exists
+Add Net: Net with name "NetLED2_2" already exists
+Add Net: Net with name "NetLED3_2" already exists
+Add Net: Net with name "NetLED4_2" already exists
+Add Net: Net with name "NetLED5_2" already exists
+Add Net: Net with name "NetLED6_2" already exists
+Add Net: Net with name "NetLED7_2" already exists
+Add Net: Net with name "NetLED8_2" already exists
+Add Net: Net with name "NetLED9_2" already exists
+Add Net: Net with name "NetLED10_2" already exists
+Add Net: Net with name "NetQ4_1" already exists
+Add Net: Net with name "NetQ4_3" already exists
+Add Net: Net with name "NetQ5_1" already exists
+Add Net: Net with name "NetQ6_1" already exists
+Add Net: Net with name "NetQ7_1" already exists
+Add Net: Net with name "NetQ8_1" already exists
+Add Net: Net with name "NetQ9_1" already exists
+Add Net: Net with name "NetQ10_1" already exists
+Add Net: Net with name "NetQ11_2" already exists
+Add Net: Net with name "NetQ12_2" already exists
+Add Net: Net with name "NetQ13_2" already exists
+Add Net: Net with name "NetQ15_2" already exists
+Add Net: Net with name "NetQ16_2" already exists
+Add Net: Net with name "NetQ17_2" already exists
+Add Net: Net with name "NetQ18_2" already exists
+Add Net: Net with name "NetQ19_2" already exists
+Add Net: Net with name "NetR18_2" already exists
+Add Net: Net with name "NetR46_2" already exists
+Add Net: Net with name "NetR49_2" already exists
+Add Net: Net with name "NetR50_2" already exists
+Add Net: Net with name "NetR53_2" already exists
+Add Net: Net with name "NetR57_2" already exists
+Add Net: Net with name "NetR59_2" already exists
+Add Net: Net with name "NetR77_2" already exists
+Add Net: Net with name "NetR78_2" already exists
+Add Net: Net with name "PA_INL+" already exists
+Add Net: Net with name "PA_INL-" already exists
+Add Net: Net with name "PGND" already exists
+Add Net: Net with name "PHY_3V3" already exists
+Add Net: Net with name "PHY_AD0" already exists
+Add Net: Net with name "PHY_AD3" already exists
+Add Net: Net with name "PHY_ISET" already exists
+Add Net: Net with name "PHY_TESTON" already exists
+Add Net: Net with name "PPS" already exists
+Add Net: Net with name "RD_N" already exists
+Add Net: Net with name "RD_P" already exists
+Add Net: Net with name "RDGOUT" already exists
+Add Net: Net with name "RF_IN" already exists
+Add Net: Net with name "RX0_1" already exists
+Add Net: Net with name "RX0" already exists
+Add Net: Net with name "RXER" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SD_CLK" already exists
+Add Net: Net with name "SD_CMD" already exists
+Add Net: Net with name "SD_DATA0" already exists
+Add Net: Net with name "SD_DATA1" already exists
+Add Net: Net with name "SD_DATA2" already exists
+Add Net: Net with name "SD_DATA3" already exists
+Add Net: Net with name "SDA" already exists
+Add Net: Net with name "SPEAKER_N" already exists
+Add Net: Net with name "SPEAKER_P" already exists
+Add Net: Net with name "TD_N" already exists
+Add Net: Net with name "TD_P" already exists
+Add Net: Net with name "TF_VCC" already exists
+Add Net: Net with name "TX0_BOOT" already exists
+Add Net: Net with name "TX1_1" already exists
+Add Net: Net with name "TXER" already exists
+Add Net: Net with name "U0_RX1" already exists
+Add Net: Net with name "USB1_5V" already exists
+Add Net: Net with name "USB1P1_N" already exists
+Add Net: Net with name "USB1P1_P" already exists
+Add Net: Net with name "USB2_5V" already exists
+Add Net: Net with name "USB3_5V" already exists
+Add Net: Net with name "USB5V_IN" already exists
+Add Net: Net with name "USB-DM" already exists
+Add Net: Net with name "USB-DP" already exists
+Add Net: Net with name "USB_5V" already exists
+Add Net: Net with name "VBAT" already exists
+Add Net: Net with name "VCC_IN" already exists
+Add Net: Net with name "VIN" already exists
+Added Differential Pair: Name=ADC_MIC1
+Added Differential Pair: Name=CSI_A_CLK
+Added Differential Pair: Name=CSI_A_DATA0
+Added Differential Pair: Name=CSI_A_DATA1
+Added Differential Pair: Name=DAC_OUT
+Added Differential Pair: Name=DSI_A_CLK
+Added Differential Pair: Name=DSI_A_DATA0
+Added Differential Pair: Name=DSI_A_DATA1
+Added Differential Pair: Name=ESP_USB
+Added Differential Pair: Name=RD
+Added Differential Pair: Name=SPEAKER
+Added Differential Pair: Name=TD
+Added Differential Pair: Name=USB1P1
+Added Member To Class: ClassName=Designator Member=Component 1 25MHz
+Added Member To Class: ClassName=Designator Member=Component ANT1 RF ANT 2450MHz CERAMIC SMD
+Added Member To Class: ClassName=Designator Member=Component BT1 BATTERY CLIP COIN CR2032 SMD
+Added Member To Class: ClassName=Designator Member=Component C1 100nF
+Added Member To Class: ClassName=Designator Member=Component C2 22uF Tantalum
+Added Member To Class: ClassName=Designator Member=Component C3 10uF
+Added Member To Class: ClassName=Designator Member=Component C4 22uF
+Added Member To Class: ClassName=Designator Member=Component C5 10uF
+Added Member To Class: ClassName=Designator Member=Component C6 22uF Tantalum
+Added Member To Class: ClassName=Designator Member=Component C7 10uF
+Added Member To Class: ClassName=Designator Member=Component C8 1uF
+Added Member To Class: ClassName=Designator Member=Component C9 10uF
+Added Member To Class: ClassName=Designator Member=Component C10 150PF
+Added Member To Class: ClassName=Designator Member=Component C11 10uF
+Added Member To Class: ClassName=Designator Member=Component C12 100nF
+Added Member To Class: ClassName=Designator Member=Component C13 100nF
+Added Member To Class: ClassName=Designator Member=Component C14 1uF
+Added Member To Class: ClassName=Designator Member=Component C15 1.3pf
+Added Member To Class: ClassName=Designator Member=Component C16 10uF
+Added Member To Class: ClassName=Designator Member=Component C17 100nF
+Added Member To Class: ClassName=Designator Member=Component C18 470pF
+Added Member To Class: ClassName=Designator Member=Component C19 220nF
+Added Member To Class: ClassName=Designator Member=Component C20 22pf
+Added Member To Class: ClassName=Designator Member=Component C21 100nF
+Added Member To Class: ClassName=Designator Member=Component C22 10uF
+Added Member To Class: ClassName=Designator Member=Component C23 100nF
+Added Member To Class: ClassName=Designator Member=Component C24 1uF
+Added Member To Class: ClassName=Designator Member=Component C25 100nF
+Added Member To Class: ClassName=Designator Member=Component C26 1uF
+Added Member To Class: ClassName=Designator Member=Component C27 22pf
+Added Member To Class: ClassName=Designator Member=Component C28 1uF
+Added Member To Class: ClassName=Designator Member=Component C29 22pf
+Added Member To Class: ClassName=Designator Member=Component C30 100nF
+Added Member To Class: ClassName=Designator Member=Component C31 1uF
+Added Member To Class: ClassName=Designator Member=Component C32 1uF
+Added Member To Class: ClassName=Designator Member=Component C33 1uF
+Added Member To Class: ClassName=Designator Member=Component C34 1uF
+Added Member To Class: ClassName=Designator Member=Component C35 100nF
+Added Member To Class: ClassName=Designator Member=Component C36 10uF
+Added Member To Class: ClassName=Designator Member=Component C37 1uF
+Added Member To Class: ClassName=Designator Member=Component C38 1uF
+Added Member To Class: ClassName=Designator Member=Component C39 100nF
+Added Member To Class: ClassName=Designator Member=Component C40 10uF
+Added Member To Class: ClassName=Designator Member=Component C41 10uF
+Added Member To Class: ClassName=Designator Member=Component C42 100nF
+Added Member To Class: ClassName=Designator Member=Component C43 100nF
+Added Member To Class: ClassName=Designator Member=Component C44 100nF
+Added Member To Class: ClassName=Designator Member=Component C45 100nF
+Added Member To Class: ClassName=Designator Member=Component C46 100nF
+Added Member To Class: ClassName=Designator Member=Component C47 10uF
+Added Member To Class: ClassName=Designator Member=Component C48 100nF
+Added Member To Class: ClassName=Designator Member=Component C49 1uF
+Added Member To Class: ClassName=Designator Member=Component C50 1uF
+Added Member To Class: ClassName=Designator Member=Component C51 1uF
+Added Member To Class: ClassName=Designator Member=Component C52 100nF
+Added Member To Class: ClassName=Designator Member=Component C53 10uF
+Added Member To Class: ClassName=Designator Member=Component C54 100nF
+Added Member To Class: ClassName=Designator Member=Component C55 10uF
+Added Member To Class: ClassName=Designator Member=Component C56 22pf
+Added Member To Class: ClassName=Designator Member=Component C57 22pf
+Added Member To Class: ClassName=Designator Member=Component C58 100nF
+Added Member To Class: ClassName=Designator Member=Component C59 100nF
+Added Member To Class: ClassName=Designator Member=Component C60 10uF
+Added Member To Class: ClassName=Designator Member=Component C61 100nF
+Added Member To Class: ClassName=Designator Member=Component C62 10uF
+Added Member To Class: ClassName=Designator Member=Component C63 100nF
+Added Member To Class: ClassName=Designator Member=Component C64 10uF
+Added Member To Class: ClassName=Designator Member=Component C65 100nF
+Added Member To Class: ClassName=Designator Member=Component C66 10uF
+Added Member To Class: ClassName=Designator Member=Component C67 1pF/NC
+Added Member To Class: ClassName=Designator Member=Component C68 1uF
+Added Member To Class: ClassName=Designator Member=Component C69 100nF
+Added Member To Class: ClassName=Designator Member=Component C70 22pf
+Added Member To Class: ClassName=Designator Member=Component C71 22pf
+Added Member To Class: ClassName=Designator Member=Component C72 100nF
+Added Member To Class: ClassName=Designator Member=Component C73 100nF
+Added Member To Class: ClassName=Designator Member=Component C74 10uF
+Added Member To Class: ClassName=Designator Member=Component C75 1uF
+Added Member To Class: ClassName=Designator Member=Component Camera CSI interface1 CONN FFC FPC 15POS 1mm BOTTOM CNT SMD R/A
+Added Member To Class: ClassName=Designator Member=Component CAP1 100uF
+Added Member To Class: ClassName=Designator Member=Component CAP2 100uF
+Added Member To Class: ClassName=Designator Member=Component CAP3 100uF
+Added Member To Class: ClassName=Designator Member=Component CN1 533980471
+Added Member To Class: ClassName=Designator Member=Component CN2 533980471
+Added Member To Class: ClassName=Designator Member=Component CN3 533980471
+Added Member To Class: ClassName=Designator Member=Component CONN1 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN2 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN3 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN4 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN5 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN6 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component CONN7 TERM BLK 2POS 5mm TH
+Added Member To Class: ClassName=Designator Member=Component D1 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component D2 B540CQ-13-F
+Added Member To Class: ClassName=Designator Member=Component D3 B540CQ-13-F
+Added Member To Class: ClassName=Designator Member=Component D4 B540CQ-13-F
+Added Member To Class: ClassName=Designator Member=Component D5 B540CQ-13-F
+Added Member To Class: ClassName=Designator Member=Component D6 DIODE ARR SCHOTTKY 30V SOT-23
+Added Member To Class: ClassName=Designator Member=Component D7 TVS DIODE 5VWM 9.2VC DO-214AA
+Added Member To Class: ClassName=Designator Member=Component D8 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D9 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D10 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D11 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D12 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D13 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D14 TVS DIODE 5VWM 18.6VC SOD-523
+Added Member To Class: ClassName=Designator Member=Component D15 B540CQ-13-F
+Added Member To Class: ClassName=Designator Member=Component D16 1N4007
+Added Member To Class: ClassName=Designator Member=Component D17 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component D18 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component D19 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component D20 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component D21 SMA(DO-214AC)
+Added Member To Class: ClassName=Designator Member=Component Display DSI interface1 CONN FFC FPC 15POS 1mm BOTTOM CNT SMD R/A
+Added Member To Class: ClassName=Designator Member=Component F1 10A
+Added Member To Class: ClassName=Designator Member=Component F2 10A
+Added Member To Class: ClassName=Designator Member=Component F3 10A
+Added Member To Class: ClassName=Designator Member=Component F4 PTC RESET FUSE 24V 100mA 0603
+Added Member To Class: ClassName=Designator Member=Component F5 PTC RESET FUSE 24V 100mA 0603
+Added Member To Class: ClassName=Designator Member=Component F6 10A
+Added Member To Class: ClassName=Designator Member=Component H1 13X2
+Added Member To Class: ClassName=Designator Member=Component HD1 Header 4
+Added Member To Class: ClassName=Designator Member=Component IC1 MP1584EN-LF
+Added Member To Class: ClassName=Designator Member=Component IC2 5A TSSOP-16 Battery Management ROHS
+Added Member To Class: ClassName=Designator Member=Component IC3 Low Power Mono Audio CODEC
+Added Member To Class: ClassName=Designator Member=Component IC4 NS4150B 3.0W Mono Class-D Audio Power Amplifier
+Added Member To Class: ClassName=Designator Member=Component IC5 Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers
+Added Member To Class: ClassName=Designator Member=Component IC6 SINGLE 2-INPUT NAND GATE WITH SCHMITT-TRIGGER INPUTS
+Added Member To Class: ClassName=Designator Member=Component IC7 CH340
+Added Member To Class: ClassName=Designator Member=Component IC8 Single Port Fast Ethernet Transceiver
+Added Member To Class: ClassName=Designator Member=Component IC9 256 kb Serial CMOS EEPROM with I2C Protocol
+Added Member To Class: ClassName=Designator Member=Component IC10 GPS NEO 6
+Added Member To Class: ClassName=Designator Member=Component IC11 PC817X2CSP9F
+Added Member To Class: ClassName=Designator Member=Component IC12 PC817X2CSP9F
+Added Member To Class: ClassName=Designator Member=Component IC13 PC817X2CSP9F
+Added Member To Class: ClassName=Designator Member=Component IC14 PC817X2CSP9F
+Added Member To Class: ClassName=Designator Member=Component IC15 PC817X2CSP9F
+Added Member To Class: ClassName=Designator Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Designator Member=Component JP1 JP4
+Added Member To Class: ClassName=Designator Member=Component JP2 CONN RCPT IPEX 50O SMD
+Added Member To Class: ClassName=Designator Member=Component L1 15uH
+Added Member To Class: ClassName=Designator Member=Component L2 15uH
+Added Member To Class: ClassName=Designator Member=Component L3 2.2uH
+Added Member To Class: ClassName=Designator Member=Component L4 2.2nH
+Added Member To Class: ClassName=Designator Member=Component L5 22nH
+Added Member To Class: ClassName=Designator Member=Component LED1 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED2 Green
+Added Member To Class: ClassName=Designator Member=Component LED3 RED
+Added Member To Class: ClassName=Designator Member=Component LED4 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED5 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED6 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED7 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED8 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED9 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component LED10 XL-1608SURC-06
+Added Member To Class: ClassName=Designator Member=Component MIC1 MSM381A3729H9CP
+Added Member To Class: ClassName=Designator Member=Component MQ-1 Header 3
+Added Member To Class: ClassName=Designator Member=Component Q1 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q2 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q3 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q4 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q5 TRANS PNP 25V 1.5A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q6 TRANS NPN 25V 0.5A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q7 TRANS NPN 25V 0.5A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q8 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q9 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q10 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q11 TRANS PNP 40V 200mA SOT-363
+Added Member To Class: ClassName=Designator Member=Component Q12 TRANS PNP 40V 200mA SOT-363
+Added Member To Class: ClassName=Designator Member=Component Q13 TRANS PNP 40V 200mA SOT-363
+Added Member To Class: ClassName=Designator Member=Component Q14 MOSFET P-CH 30V 4.3A SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q15 TRANS NPN 50V 150mA SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q16 TRANS NPN 50V 150mA SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q17 TRANS NPN 50V 150mA SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q18 TRANS NPN 50V 150mA SOT-23
+Added Member To Class: ClassName=Designator Member=Component Q19 TRANS NPN 50V 150mA SOT-23
+Added Member To Class: ClassName=Designator Member=Component R1 210KO
+Added Member To Class: ClassName=Designator Member=Component R2 100kO
+Added Member To Class: ClassName=Designator Member=Component R3 40.2KO
+Added Member To Class: ClassName=Designator Member=Component R4 1kO
+Added Member To Class: ClassName=Designator Member=Component R5 100kO
+Added Member To Class: ClassName=Designator Member=Component R6 100kO
+Added Member To Class: ClassName=Designator Member=Component R7 91mO
+Added Member To Class: ClassName=Designator Member=Component R8 10kO
+Added Member To Class: ClassName=Designator Member=Component R9 4.7kO
+Added Member To Class: ClassName=Designator Member=Component R10 4.7kO
+Added Member To Class: ClassName=Designator Member=Component R11 59KO
+Added Member To Class: ClassName=Designator Member=Component R12 1kO
+Added Member To Class: ClassName=Designator Member=Component R13 18.7kO
+Added Member To Class: ClassName=Designator Member=Component R14 120O
+Added Member To Class: ClassName=Designator Member=Component R15 10kO
+Added Member To Class: ClassName=Designator Member=Component R16 1.3KO
+Added Member To Class: ClassName=Designator Member=Component R17 10kO
+Added Member To Class: ClassName=Designator Member=Component R18 10kO
+Added Member To Class: ClassName=Designator Member=Component R19 100kO
+Added Member To Class: ClassName=Designator Member=Component R20 22kO
+Added Member To Class: ClassName=Designator Member=Component R21 22kO
+Added Member To Class: ClassName=Designator Member=Component R22 10kO
+Added Member To Class: ClassName=Designator Member=Component R23 22kO
+Added Member To Class: ClassName=Designator Member=Component R24 0O
+Added Member To Class: ClassName=Designator Member=Component R25 100O
+Added Member To Class: ClassName=Designator Member=Component R26 0O
+Added Member To Class: ClassName=Designator Member=Component R27 0O
+Added Member To Class: ClassName=Designator Member=Component R28 10kO
+Added Member To Class: ClassName=Designator Member=Component R29 0O
+Added Member To Class: ClassName=Designator Member=Component R30 0O
+Added Member To Class: ClassName=Designator Member=Component R31 0O
+Added Member To Class: ClassName=Designator Member=Component R32 0O
+Added Member To Class: ClassName=Designator Member=Component R33 0O
+Added Member To Class: ClassName=Designator Member=Component R34 0O
+Added Member To Class: ClassName=Designator Member=Component R35 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R36 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R37 0O
+Added Member To Class: ClassName=Designator Member=Component R38 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R39 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R40 10kO
+Added Member To Class: ClassName=Designator Member=Component R41 10kO
+Added Member To Class: ClassName=Designator Member=Component R42 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R43 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R44 10kO
+Added Member To Class: ClassName=Designator Member=Component R45 0O
+Added Member To Class: ClassName=Designator Member=Component R46 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R47 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R48 0O
+Added Member To Class: ClassName=Designator Member=Component R49 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R50 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R51 0O
+Added Member To Class: ClassName=Designator Member=Component R52 10kO
+Added Member To Class: ClassName=Designator Member=Component R53 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R54 2k2O
+Added Member To Class: ClassName=Designator Member=Component R55 2k2O
+Added Member To Class: ClassName=Designator Member=Component R56 10kO
+Added Member To Class: ClassName=Designator Member=Component R57 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R58 10kO
+Added Member To Class: ClassName=Designator Member=Component R59 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R60 10kO
+Added Member To Class: ClassName=Designator Member=Component R61 51kO
+Added Member To Class: ClassName=Designator Member=Component R62 10kO
+Added Member To Class: ClassName=Designator Member=Component R63 51kO
+Added Member To Class: ClassName=Designator Member=Component R64 10kO
+Added Member To Class: ClassName=Designator Member=Component R65 51kO
+Added Member To Class: ClassName=Designator Member=Component R66 10kO
+Added Member To Class: ClassName=Designator Member=Component R67 10kO
+Added Member To Class: ClassName=Designator Member=Component R68 10kO
+Added Member To Class: ClassName=Designator Member=Component R69 2k2O
+Added Member To Class: ClassName=Designator Member=Component R70 0O
+Added Member To Class: ClassName=Designator Member=Component R71 2k2O
+Added Member To Class: ClassName=Designator Member=Component R72 0O
+Added Member To Class: ClassName=Designator Member=Component R73 0O
+Added Member To Class: ClassName=Designator Member=Component R74 0O
+Added Member To Class: ClassName=Designator Member=Component R75 0O
+Added Member To Class: ClassName=Designator Member=Component R76 50O
+Added Member To Class: ClassName=Designator Member=Component R77 1kO
+Added Member To Class: ClassName=Designator Member=Component R78 1kO
+Added Member To Class: ClassName=Designator Member=Component R79 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R80 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R81 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R82 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R83 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R84 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R85 6.19KO
+Added Member To Class: ClassName=Designator Member=Component R86 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R87 0O
+Added Member To Class: ClassName=Designator Member=Component R88 10kO
+Added Member To Class: ClassName=Designator Member=Component R89 10kO
+Added Member To Class: ClassName=Designator Member=Component R90 10kO
+Added Member To Class: ClassName=Designator Member=Component R91 10kO
+Added Member To Class: ClassName=Designator Member=Component R92 5.1KO
+Added Member To Class: ClassName=Designator Member=Component R93 1kO
+Added Member To Class: ClassName=Designator Member=Component R94 1kO
+Added Member To Class: ClassName=Designator Member=Component R95 10kO
+Added Member To Class: ClassName=Designator Member=Component R96 50O
+Added Member To Class: ClassName=Designator Member=Component R97 1kO
+Added Member To Class: ClassName=Designator Member=Component R98 1kO
+Added Member To Class: ClassName=Designator Member=Component R99 1kO
+Added Member To Class: ClassName=Designator Member=Component R100 220O
+Added Member To Class: ClassName=Designator Member=Component R101 10kO
+Added Member To Class: ClassName=Designator Member=Component R102 220O
+Added Member To Class: ClassName=Designator Member=Component R103 10kO
+Added Member To Class: ClassName=Designator Member=Component R104 1kO
+Added Member To Class: ClassName=Designator Member=Component R105 1kO
+Added Member To Class: ClassName=Designator Member=Component R106 220O
+Added Member To Class: ClassName=Designator Member=Component R107 10kO
+Added Member To Class: ClassName=Designator Member=Component R108 220O
+Added Member To Class: ClassName=Designator Member=Component R109 10kO
+Added Member To Class: ClassName=Designator Member=Component R110 1kO
+Added Member To Class: ClassName=Designator Member=Component R111 220O
+Added Member To Class: ClassName=Designator Member=Component R112 10kO
+Added Member To Class: ClassName=Designator Member=Component R? 24.9kO
+Added Member To Class: ClassName=Designator Member=Component RJ1 CONN MOD JACK RJ45 TH
+Added Member To Class: ClassName=Designator Member=Component RL1 Relay 15A/5V
+Added Member To Class: ClassName=Designator Member=Component RL2 Relay 15A/5V
+Added Member To Class: ClassName=Designator Member=Component RL3 Relay 15A/5V
+Added Member To Class: ClassName=Designator Member=Component RL4 Relay 15A/5V
+Added Member To Class: ClassName=Designator Member=Component RL5 Relay 15A/5V
+Added Member To Class: ClassName=Designator Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=Designator Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=Designator Member=Component TF1 CONN MICRO SD CARD (TF CARD) SMD
+Added Member To Class: ClassName=Designator Member=Component U1 TLV62569DBVR
+Added Member To Class: ClassName=Designator Member=Component U2 ESP32P4_QFN104
+Added Member To Class: ClassName=Designator Member=Component USB1 TYPE C 2.0
+Added Member To Class: ClassName=Designator Member=Component USB2 TYPE C 2.0
+Added Member To Class: ClassName=Designator Member=Component USB3 TYPE C 2.0
+Added Member To Class: ClassName=ADC_MIC Member=Wire ADC_MIC1_N
+Added Member To Class: ClassName=DIFF Member=Wire ADC_MIC1_N
+Added Member To Class: ClassName=ADC_MIC Member=Wire ADC_MIC1_P
+Added Member To Class: ClassName=DIFF Member=Wire ADC_MIC1_P
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire BOOTMODE
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_CLK_N
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_CLK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_CLK_P
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_CLK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_DATA0_N
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_DATA0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_DATA0_P
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_DATA0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_DATA1_N
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_DATA1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CSI_A_DATA1_P
+Added Member To Class: ClassName=MIPI Member=Wire CSI_A_DATA1_P
+Added Member To Class: ClassName=DAC Member=Wire DAC_OUT_N
+Added Member To Class: ClassName=DIFF Member=Wire DAC_OUT_N
+Added Member To Class: ClassName=DAC Member=Wire DAC_OUT_P
+Added Member To Class: ClassName=DIFF Member=Wire DAC_OUT_P
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_CLK_N
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_CLK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_CLK_P
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_CLK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_DATA0_N
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_DATA0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_DATA0_P
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_DATA0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_DATA1_N
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_DATA1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI_A_DATA1_P
+Added Member To Class: ClassName=MIPI Member=Wire DSI_A_DATA1_P
+Added Member To Class: ClassName=DIFF90 Member=Wire ESP_USB_N
+Added Member To Class: ClassName=USB Member=Wire ESP_USB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire ESP_USB_P
+Added Member To Class: ClassName=USB Member=Wire ESP_USB_P
+Added Member To Class: ClassName=USB Member=Wire GND
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO28
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO29
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO30
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO31
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO34
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire GPIO45
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO49
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO50
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO51
+Added Member To Class: ClassName=RMII_BUS50 Member=Wire GPIO52
+Added Member To Class: ClassName=ETH_PHY Member=Wire NetC58_2
+Added Member To Class: ClassName=ETH_PHY Member=Wire NetC59_2
+Added Member To Class: ClassName=DIFF100 Member=Wire RD_N
+Added Member To Class: ClassName=ETH_PHY Member=Wire RD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire RD_P
+Added Member To Class: ClassName=ETH_PHY Member=Wire RD_P
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_CLK
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_CMD
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_DATA0
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_DATA1
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_DATA2
+Added Member To Class: ClassName=SDIO_BUS50 Member=Wire SD_DATA3
+Added Member To Class: ClassName=DIFF Member=Wire SPEAKER_N
+Added Member To Class: ClassName=SPEAKER Member=Wire SPEAKER_N
+Added Member To Class: ClassName=DIFF Member=Wire SPEAKER_P
+Added Member To Class: ClassName=SPEAKER Member=Wire SPEAKER_P
+Added Member To Class: ClassName=DIFF100 Member=Wire TD_N
+Added Member To Class: ClassName=ETH_PHY Member=Wire TD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire TD_P
+Added Member To Class: ClassName=ETH_PHY Member=Wire TD_P
+Added Member To Class: ClassName=DIFF90 Member=Wire USB1P1_N
+Added Member To Class: ClassName=USB Member=Wire USB1P1_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB1P1_P
+Added Member To Class: ClassName=USB Member=Wire USB1P1_P

@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=Camera CSI NewDesignator=Camera CSI interface1
+Change Component Designator: OldDesignator=Display DSI NewDesignator=Display DSI interface1
+Added Component: Designator=C66(C0603)
+Added Component: Designator=C80(C0603)
+Added Component: Designator=Hole4(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=VCC3V3 Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=VCC3V3 Pin=C80-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

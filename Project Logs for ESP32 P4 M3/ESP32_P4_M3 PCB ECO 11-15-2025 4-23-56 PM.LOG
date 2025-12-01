@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=PGND Pin=IC11-2
+Removed Pin From Net: NetName=PGND Pin=IC12-2
+Removed Pin From Net: NetName=PGND Pin=IC13-2
+Removed Pin From Net: NetName=PGND Pin=IC14-2
+Removed Pin From Net: NetName=PGND Pin=IC15-2
+Added Pin To Net: NetName=AGND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=IC11-2
+Added Pin To Net: NetName=GND Pin=IC12-2
+Added Pin To Net: NetName=GND Pin=IC13-2
+Added Pin To Net: NetName=GND Pin=IC14-2
+Added Pin To Net: NetName=GND Pin=IC15-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(152, 0, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(230, 184, 175)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(74, 134, 232)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Fuchsia
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Lime
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(76, 17, 48)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Lime
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

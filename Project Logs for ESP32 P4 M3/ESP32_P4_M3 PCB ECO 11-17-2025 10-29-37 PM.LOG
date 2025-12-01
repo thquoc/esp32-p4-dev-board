@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=Camera CSI NewDesignator=Camera CSI interface1
+Change Component Designator: OldDesignator=Display DSI NewDesignator=Display DSI interface1
+Added Component: Designator=Hole1(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Added Component: Designator=Hole2(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Added Component: Designator=Hole3(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Added Component: Designator=Hole4(Screw 3.0)
+Add component (AddParameter): Name = "Value"; Value = "Pad Big - Hole"; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

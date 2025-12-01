@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=AGND Pin=C14-2
+Removed Pin From Net: NetName=5V Pin=HD1-1
+Added Pin To Net: NetName=PGND Pin=C14-2
+Added Pin To Net: NetName=VCC_IN Pin=HD1-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

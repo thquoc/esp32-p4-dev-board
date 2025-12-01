@@ -1,0 +1,13 @@
+Added Component: Designator=R115(R0603)
+Added Pin To Net: NetName=PGND Pin=R115-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R115-2
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component R115 24.9kO
