@@ -10,7 +10,7 @@
 -  Ưu điểm: chuyển mạch nhanh, chi phí thấp, chặn dòng ngược.
 -  Nhược điểm: sụt áp, công suất thấp.
 
-#2. Mạch nguồn ưu tiên dùng "ideal diode".
+#2. Mạch chuyển nguồn dùng "ideal diode".
 -  
 -  Mạch này vẫn hoạt động dựa trên nguyên lý so sánh điện áp, tự động chọn nguồn có điện áp cao hơn để cấp cho tải. Tuy nhiên, mạch này rất "nhạy" áp, khi có sự chênh lệch nhỏ chỉ 0.01V thôi thì mạch đã chuyển nguồn rồi.
 <img width="510" height="133" alt="image" src="https://github.com/user-attachments/assets/00bdf0bb-1b38-4df3-95f5-097278489400" />
